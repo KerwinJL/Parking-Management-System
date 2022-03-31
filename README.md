@@ -4,4 +4,4 @@ A parking management system using python and mysql
 2. Run create table
 3. Run main
 4. Run delete table or delete database (if it is needed)
-IMPORTANT:Change the information of sql into yours
+   IMPORTANT:Change the information of sql into yours
